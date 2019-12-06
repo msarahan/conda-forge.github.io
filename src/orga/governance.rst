@@ -62,6 +62,14 @@ Sub-teams have a charter that is either *dynamic* or *static*.
 All sub-teams must adhere to the governance, policies, and procedures of
 conda-forge at all times.
 
+Representation of commercial entities
+-------------------------------------
+Individuals on the core team represent their employer's interests. This is
+expected and acceptable. However, no single organization should dominate the
+direction of conda-forge. In the interest of avoiding any single organization
+effectively taking ownership of conda-forge, the proportional representation of
+any single organization in a given vote must be limited.
+
 Voting
 ------
 This section presents descriptions and criteria for voting items in the
